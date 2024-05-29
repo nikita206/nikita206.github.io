@@ -19,7 +19,9 @@ My mentor is Professor Susan Rodger who is a Professor of the Practice in the Co
 
 ## About My Project
 
-We are trying to build an online Python programming  course that is culturally relevant with assignments that are open-ended yet autograded. That is, to first create an opened assignment, and then rework it so it can be autograded. I will learn how to write autograders and also develop assignments that are attractive to a wide audience. 
+We are developing an online Python programming course that is culturally relevant and features open-ended yet autograded assignments. The goal is to design assignments that allow for creativity and individual expression while still being assessable through automated grading tools. As a member of the research team, my role involves learning how to write autograders for Duke University's Python courses on Coursera and developing engaging assignments that appeal to a diverse audience. This is a challenging endeavor since open-ended autograders are not yet widely adopted.
+
+To achieve this, I will read multiple research papers on open-ended assignments and autograding techniques to identify areas for improvement. Additionally, I am enrolled in an introductory research course, UR2PhD, to further enhance my research skills. This comprehensive approach will equip me with the knowledge and tools needed to create innovative and effective educational resources.
 
 [My Final Report](files/finalreport.pdf)
 
