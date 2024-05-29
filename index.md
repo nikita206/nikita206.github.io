@@ -14,7 +14,7 @@ My Email address is nikitaag206@gmail.com - feel free to reach out to me if you 
 
 ## About My Mentor
 
-My mentor is Professor Susan Rodger who is a Professor of the Practice in the Computer Science Department at Duke University. 
+My mentor is Professor Susan Rodger who is a Professor of the Practice in the Computer Science Department at Duke University. Her research is in visualization, algorithm animation, and computer science education. She developed JFLAP, software for experimenting with formal languages and automata that is used in automata theory courses worldwide. She also leads the Adventures in Alice Programming project to integrate computing into K-12. Moreover, with others, she has created several online introductory programming Coursera courses.
 
 ## About My Project
 
